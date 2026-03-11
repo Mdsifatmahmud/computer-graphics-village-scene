@@ -61,7 +61,7 @@ This project was developed as part of the **Computer Graphics Laboratory course*
 <p align="center">
   <img src="https://github.com/Mdsifatmahmud/computer-graphics-village-scene/blob/main/raining.PNG" width="800"/>
 </p>
----
+
 
 ## 🎓 Academic Information
 
@@ -73,6 +73,5 @@ This project was developed as part of the **Computer Graphics Laboratory course*
 
 * **Md. Sifat Mahmud** — ID: 222-15-6248
 * **Shahedul Islam Anik** — ID: 222-15-6316
-
 
 

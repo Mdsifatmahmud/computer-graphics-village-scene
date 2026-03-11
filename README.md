@@ -44,6 +44,24 @@ This project was developed as part of the **Computer Graphics Laboratory course*
 | **X** | Exit the program     |
 
 ---
+## 🎥 Project Preview
+
+<p align="center">
+  <img src="https://github.com/Mdsifatmahmud/computer-graphics-village-scene/blob/main/front%20page.PNG" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Mdsifatmahmud/computer-graphics-village-scene/blob/main/day.PNG" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Mdsifatmahmud/computer-graphics-village-scene/blob/main/night.PNG" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Mdsifatmahmud/computer-graphics-village-scene/blob/main/raining.PNG" width="800"/>
+</p>
+---
 
 ## 🎓 Academic Information
 
@@ -56,12 +74,5 @@ This project was developed as part of the **Computer Graphics Laboratory course*
 * **Md. Sifat Mahmud** — ID: 222-15-6248
 * **Shahedul Islam Anik** — ID: 222-15-6316
 
----
 
-If you want, I can also give you these **3 things that will make your repo look much more professional than most student repos:**
 
-* ⭐ **GitHub README banner (looks like a professional project header)**
-* 🎥 **Project preview GIF section**
-* 📊 **Project architecture / scene components diagram**
-
-These will make your project look **10× better on GitHub and LinkedIn portfolio.**

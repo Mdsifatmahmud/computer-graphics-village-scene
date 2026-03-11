@@ -1,6 +1,3 @@
-Here is a **clean, professional GitHub README intro section** you can place at the top of your `README.md`. It is written in a way that looks good for **recruiters, GitHub visitors, and university project submission**.
-
----
 
 # 🌿 Dynamic Village – OpenGL Computer Graphics Project
 
